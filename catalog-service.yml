@@ -1,2 +1,5 @@
 polar:
   greeting: "Welcome to the catalog from the config server!"
+spring:
+  datasource:
+    password: '{cipher}861c8cec340bf8036934dca6bb621d01bad8851777822d23fa8cf1045b339116'
