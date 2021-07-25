@@ -1,0 +1,7 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          keycloak:
+            client-secret: '{cipher}b0c0979af0eabe1490abea660459ea010db81fe4b1587974320abd4fe24413ec03d47213268ec94e88becf14d9e41751'
